@@ -13,7 +13,7 @@
 
 I am a Systems Engineering student passionate about cybersecurity, operating systems, and computer architecture, with a constant thirst for knowledge. Motivated by challenges, I am always looking for ways to hone my skills and grow professionally.
  - 🌱 I'm currently learning C++.
- - I always stay up to date with new computer component technologies
+ - 🧰 I always stay up to date with new computer component technologies
  - 👨‍💻 I love experimenting with new commands in Kali Linux.
  - Outside of technology:
    * 🖌️ I love to draw
