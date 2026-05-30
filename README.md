@@ -58,7 +58,7 @@ I am a Systems Engineering student passionate about cybersecurity, operating sys
 ---
 
 <div align="center">
-Credits: <a href="https://github.com/lazonielito">lazoonielito</a>
+Credits: <a href="https://github.com/lazoonielito">lazoonielito</a>
   
 Last Edited on: 29/05/2026
 </div>
