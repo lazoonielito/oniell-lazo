@@ -17,10 +17,11 @@ I am a Systems Engineering student passionate about cybersecurity, operating sys
  - 👨‍💻 I love experimenting with new commands in Kali Linux.
  - Outside of technology:
    * 🖌️ I love to draw
-   * 🎵 listen to music
-   * 🌴 enjoy nature
+   * 🎵 Listen to music
+   * 🌴 Enjoy nature
  - 📫 Reach out to me at: <a href="lazoonielito@gmail.com">lazoonielito@gmail.com</a>
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+
 <h4> Languages </h4>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
